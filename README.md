@@ -22,7 +22,7 @@ Software Developer | API Developer ✨
 
 - Email: [Uche Lebechi](mailto:lebechiuchey@gmail.com)
 - Twitter: [leonard-czar](https://x.com/leonard-czar)
-- Website: [Portfolio](https://uche-lebechi-portfolio.vercel.app/)
+- Website: [Personal](https://uche-lebechi-portfolio.vercel.app/)
 - Skype:   [Uche Lebechi](https://join.skype.com/invite/NRCCGDnepedX)
 
 
