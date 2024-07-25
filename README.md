@@ -21,8 +21,10 @@ Software Developer | API Developer ✨
 ## 📫 How to reach me
 
 - Email: [Uche Lebechi](mailto:lebechiuchey@gmail.com)
-- LinkedIn: [Uche Lebechi](https://www.linkedin.com/in/uche-lebechi-1a2025170/)
-- Twitter: [@leonard-czar](https://x.com/leonard-czar)
+<!-- - LinkedIn: [Uche Lebechi](https://www.linkedin.com/in/uche-lebechi-1a2025170/) -->
+- Twitter: [leonard-czar](https://x.com/leonard-czar)
+- Website: [Portfolio](https://uche-lebechi-portfolio.vercel.app/)
+- Skype:   [Uche Lebechi](https://join.skype.com/invite/NRCCGDnepedX)
 
 <hr>
 
