@@ -20,9 +20,9 @@ Software Developer | API Developer ✨
 
 ## 📫 How to reach me
 
-- Email: [Olumide Awodeji](mailto:lebechiuchey@gmail.com)
-- LinkedIn: [Olumide Awodeji](https://www.linkedin.com/in/uche-lebechi-1a2025170/)
-- Twitter: [@cyphercodes_](https://x.com/leonard-czar)
+- Email: [Uche Lebechi](mailto:lebechiuchey@gmail.com)
+- LinkedIn: [Uche Lebechi](https://www.linkedin.com/in/uche-lebechi-1a2025170/)
+- Twitter: [@leonard-czar](https://x.com/leonard-czar)
 
 <hr>
 
