@@ -6,7 +6,7 @@ Software Developer | API Developer ✨
 
 ## About me
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  
+
   <div style="flex: 1; padding-right: 20px;">
     <p align="left">
       - ⚡ My approach: <b>learn from mistakes</b><br><br> 
@@ -15,13 +15,14 @@ Software Developer | API Developer ✨
       - 🔗 Following me is <b><i>FREE</i></b>...
     </p>
   </div>
-  
-  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+
+  <div style="flex: 1; display: flex; justify-content: flex-end; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonard-czar&show_icons=true&locale=en&layout=compact&theme=onedark" 
-         alt="Leonard-Czar" style="max-width: 100%;" />
+         alt="Leonard-Czar" style="max-width: 100%; height: auto;" />
   </div>
 
 </div>
+
 
 
 
