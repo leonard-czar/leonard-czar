@@ -20,14 +20,14 @@ Software Developer ✨
 <h2>📊 Github stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonard-czar&show_icons=true&locale=en&layout=compact&theme=onedark" 
-       style="width:75%;" alt="Leonard-Czar" />
+       style="width:95%;" alt="Leonard-Czar" />
 </p>
 
 
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
-        <img align="center" style="width: 69%;" src="https://github-readme-streak-stats.herokuapp.com/?user=leonard-czar&theme=onedark" alt="leonard-czar" />
-        <img align="center" style="width: 69%;" src="https://github-readme-stats.vercel.app/api?username=leonard-czar&show_icons=true&locale=en&theme=onedark" alt="leonard-czar" />
+        <img align="center" style="width: 67%;" src="https://github-readme-streak-stats.herokuapp.com/?user=leonard-czar&theme=onedark" alt="leonard-czar" />
+        <img align="center" style="width: 79%;" src="https://github-readme-stats.vercel.app/api?username=leonard-czar&show_icons=true&locale=en&theme=onedark" alt="leonard-czar" />
 <!--       <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/leonard-czar/leonard-czar/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Leonard-czar" /> -->
     </span>
 </p>
