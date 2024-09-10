@@ -5,7 +5,8 @@ Software Developer | API Developer ✨
 <hr>
 
 ## About me
-<p align="left">
+<span>
+    <p align="left">
     - ⚡ My approach: <b>learn from mistakes</b><br</b><br> 
     
     - 💬 Ask me about: <b><i>php, python, laravel, <br> django, web, or my projects</i></b><br></b><br>
@@ -19,6 +20,8 @@ Software Developer | API Developer ✨
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonard-czar&show_icons=true&locale=en&layout=compact&theme=onedark" 
         alt="Leonard-Czar" />
 </p>
+</span>
+
 
 <hr>
 
