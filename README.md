@@ -4,9 +4,7 @@ Software Developer | API Developer ✨
 
 <hr>
 
-
-<hr>
-<h1 align="left"><u>Github stats</u></h1>
+## Github stats
 
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
@@ -16,10 +14,9 @@ Software Developer | API Developer ✨
     </span>
 </p>
 
-<p><img align="center" style="width: 50%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonard-czar&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Leonard-Czar" /></p>
+<p><img align="center" style="width: 100%;height:40% " src="https://github-readme-stats.vercel.app/api/top-langs?username=leonard-czar&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Leonard-Czar" /></p>
 <hr>
 
-<hr>
 
 ## 🏆 Trophies
 
