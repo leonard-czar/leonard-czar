@@ -7,23 +7,19 @@ Software Developer | API Developer ✨
 ## About me
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
-  <div style="flex: 1; padding-right: 20px;">
-    <p align="left">
+
+<p align="center" style="width: 100%;">
+    <span style="width: 100%;">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonard-czar&show_icons=true&locale=en&layout=compact&theme=onedark" 
+         alt="Leonard-Czar" style="max-width: 100%; height: auto;" />
+        <p>
       - ⚡ My approach: <b>learn from mistakes</b><br><br> 
       - 💬 Ask me about: <b><i>php, python, laravel, <br> django, web, or my projects</i></b><br><br>
       - 🌟 Checkout my <a href="https://github.com/leonard-czar?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br><br>
       - 🔗 Following me is <b><i>FREE</i></b>...
     </p>
-  </div>
-
-  <div style="flex: 1; display: flex; justify-content: flex-end; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonard-czar&show_icons=true&locale=en&layout=compact&theme=onedark" 
-         alt="Leonard-Czar" style="max-width: 100%; height: auto;" />
-  </div>
-
-</div>
-
-
+    </span>
+</p>
 
 
 
