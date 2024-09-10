@@ -5,22 +5,26 @@ Software Developer | API Developer ✨
 <hr>
 
 ## About me
-<span>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  
+  <div style="flex: 1; padding-right: 20px;">
     <p align="left">
-    - ⚡ My approach: <b>learn from mistakes</b><br</b><br> 
-    
-    - 💬 Ask me about: <b><i>php, python, laravel, <br> django, web, or my projects</i></b><br></b><br>
-    
-    - 🌟 Checkout my <a href="https://github.com/leonard-czar?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br></b>
-    
-    - 🔗 Following me, is <b><i>FREE</i></b>...
-</p>
+      - ⚡ My approach: <b>learn from mistakes</b><br><br> 
+      - 💬 Ask me about: <b><i>php, python, laravel, <br> django, web, or my projects</i></b><br><br>
+      - 🌟 Checkout my <a href="https://github.com/leonard-czar?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br><br>
+      - 🔗 Following me is <b><i>FREE</i></b>...
+    </p>
+  </div>
+  
+  <div style="flex: 1;">
+    <p align="right">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonard-czar&show_icons=true&locale=en&layout=compact&theme=onedark" 
+           alt="Leonard-Czar" style="max-width: 100%;" />
+    </p>
+  </div>
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonard-czar&show_icons=true&locale=en&layout=compact&theme=onedark" 
-        alt="Leonard-Czar" />
-</p>
-</span>
+</div>
+
 
 
 <hr>
