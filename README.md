@@ -14,7 +14,11 @@ Software Developer | API Developer ✨
     </span>
 </p>
 
-<p style="justify-content:center"><img align="center" style="height:50% " src="https://github-readme-stats.vercel.app/api/top-langs?username=leonard-czar&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Leonard-Czar" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonard-czar&show_icons=true&locale=en&layout=compact&theme=onedark" 
+       style="width:100%; max-height:50vh;" alt="Leonard-Czar" />
+</p>
+
 <hr>
 
 
