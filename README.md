@@ -4,11 +4,6 @@ Software Developer | API Developer ✨
 
 <hr>
 
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=leonard-czar&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=leonard-czar&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=leonard-czar&theme=darcula&hide_border=true&background=000000">
-</p>
 
 <hr>
 <h1 align="left"><u>Github stats</u></h1>
@@ -20,6 +15,8 @@ Software Developer | API Developer ✨
       <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/leonard-czar/leonard-czar/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Leonard-czar" />
     </span>
 </p>
+
+<p><img align="center" style="width: 100%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonard-czar &show_icons=true&locale=en&layout=compact&theme=onedark" alt="Leonard-Czar" /></p>
 <hr>
 
 <hr>
