@@ -14,14 +14,10 @@ Software Developer | API Developer ✨
 <h1 align="left"><u>Github stats</u></h1>
 
 <p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/leonard_czar/leonard_czar/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Leonard-czar" />
-</p>
-
-<p align="center" style="width: 100%;">
     <span style="width: 100%;">
         <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=leonard-czar&theme=onedark" alt="leonard-czar" />
         <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=leonard-czar&show_icons=true&locale=en&theme=onedark" alt="leonard-czar" />
-      <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/leonard_czar/leonard_czar/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Leonard-czar" />
+      <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/leonard-czar/leonard-czar/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Leonard-czar" />
     </span>
 </p>
 <hr>
