@@ -6,12 +6,15 @@ Software Developer | API Developer ✨
 
 ## About me
 
-<p align="left">
+<div style="width: 100%;">
+  <p align="left" style="margin: 0;">
     - ⚡ My approach: <b>learn from mistakes</b><br>
     - 💬 Ask me about: <b><i>php, python, laravel, <br>django, web, or my projects</i></b><br>
     - 🌟 Checkout my <a href="https://github.com/leonard-czar?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
-    - 🔗 Following me, is <b><i>FREE</i></b>...
-</p>
+    - 🔗 Following me is <b><i>FREE</i></b>...
+  </p>
+</div>
+
 
 <hr>
 
