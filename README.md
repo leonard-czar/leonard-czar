@@ -5,7 +5,7 @@ Software Developer | API Developer ✨
 <hr>
 
 ## About me
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
   
   <div style="flex: 1; padding-right: 20px;">
     <p align="left">
@@ -16,14 +16,13 @@ Software Developer | API Developer ✨
     </p>
   </div>
   
-  <div style="flex: 1;">
-    <p align="right">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonard-czar&show_icons=true&locale=en&layout=compact&theme=onedark" 
-           alt="Leonard-Czar" style="max-width: 100%;" />
-    </p>
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonard-czar&show_icons=true&locale=en&layout=compact&theme=onedark" 
+         alt="Leonard-Czar" style="max-width: 100%;" />
   </div>
 
 </div>
+
 
 
 
