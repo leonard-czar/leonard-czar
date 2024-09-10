@@ -9,7 +9,7 @@ Software Developer | API Developer ✨
 
 
 <p align="center" style="width: 100%;">
-    <span style="width: 100%;">
+    <span style="width: 100%;display:flex">
          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonard-czar&show_icons=true&locale=en&layout=compact&theme=onedark" 
          alt="Leonard-Czar" style="max-width: 100%; height: auto;" />
         <p>
