@@ -4,6 +4,21 @@ Software Developer | API Developer ✨
 
 <hr>
 
+## About me
+<p align="left">
+    - ⚡ My approach: <b>learn from mistakes</b><br>
+    - 💬 Ask me about: <b><i>php, python, laravel, <br> django, web, or my projects</i></b><br>
+    - 🌟 Checkout my <a href="https://github.com/leonard-czar?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
+    - 🔗 Following me, is <b><i>FREE</i></b>...
+</p>
+
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonard-czar&show_icons=true&locale=en&layout=compact&theme=onedark" 
+       style="width:50%; max-height:50vh;" alt="Leonard-Czar" />
+</p>
+
+<hr>
+
 ## Github stats
 
 <p align="center" style="width: 100%;">
@@ -14,10 +29,6 @@ Software Developer | API Developer ✨
     </span>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonard-czar&show_icons=true&locale=en&layout=compact&theme=onedark" 
-       style="width:40%; max-height:50vh;" alt="Leonard-Czar" />
-</p>
 
 <hr>
 
