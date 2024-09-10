@@ -11,9 +11,6 @@ Software Developer | API Developer ✨
 </p>
 
 
-
-<hr>
-
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
         <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=leonard-czar&theme=onedark" alt="leonard-czar" />
