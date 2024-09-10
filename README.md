@@ -26,8 +26,8 @@ Software Developer ✨
 
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
-        <img align="center" style="width: 87%;" src="https://github-readme-streak-stats.herokuapp.com/?user=leonard-czar&theme=onedark" alt="leonard-czar" />
-        <img align="center" style="width: 89%;" src="https://github-readme-stats.vercel.app/api?username=leonard-czar&show_icons=true&locale=en&theme=onedark" alt="leonard-czar" />
+        <img align="center" style="width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=leonard-czar&theme=onedark" alt="leonard-czar" />
+        <img align="center" style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=leonard-czar&show_icons=true&locale=en&theme=onedark" alt="leonard-czar" />
 <!--       <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/leonard-czar/leonard-czar/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Leonard-czar" /> -->
     </span>
 </p>
