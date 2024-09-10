@@ -20,7 +20,7 @@ Software Developer ✨
 <h2>📊 Github stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonard-czar&show_icons=true&locale=en&layout=compact&theme=onedark" 
-       style="width:115%;" alt="Leonard-Czar" />
+       style="width:50px;" alt="Leonard-Czar" />
 </p>
 
 
