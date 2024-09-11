@@ -20,14 +20,14 @@ Software Developer ✨
 <h2>📊 Github stats</h2>
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonard-czar&show_icons=true&locale=en&layout=compact&theme=onedark" 
-       style="width:110%;"  alt="Leonard-Czar" />
+       style="width:50%;"  alt="Leonard-Czar" />
 </p>
 
 
 <p align="center" >
     <span style="width: 100%;">
-        <img align="center" style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=leonard-czar&theme=onedark" alt="leonard-czar" /> <br>
-       <p> <img align="center" style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=leonard-czar&show_icons=true&locale=en&theme=onedark" alt="leonard-czar" /> </p>
+        <img align="center" style="width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=leonard-czar&theme=onedark" alt="leonard-czar" /> <br>
+       <p> <img align="center" style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=leonard-czar&show_icons=true&locale=en&theme=onedark" alt="leonard-czar" /> </p>
     </span>
 </p>
 
