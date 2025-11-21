@@ -1,56 +1,18 @@
-### Hi there 👋, I am Uche Lebechi! ![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
-
-Software Developer ✨
-
-<hr>
-
-## 🧑‍💻 About me
-
-<div style="width: 100%;">
-  <p align="left" style="margin: 0;">
-    - ⚡ My approach: <b>learn from mistakes</b> <br> <br>
-    - 💬 Ask me about: <b><i>php, python, laravel, django, web, or my projects</i></b> <br> <br>
-    - 🌟 Checkout my <a href="https://github.com/leonard-czar?tab=repositories">projects</a> and leave a <b><i>STAR</i></b> <br> <br>
-    - 🔗 Following me is <b><i>FREE</i></b>...
-  </p>
-</div>
-
-<hr>
-
-<h2>📊 Github stats</h2>
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonard-czar&show_icons=true&locale=en&layout=compact&theme=onedark" 
-       style="width:40%;"  alt="Leonard-Czar" />
-</p>
+# 💫 About Me:
+Hi there 👋, I am Uche Lebechi!<br>Software Developer ✨<br><br>- ⚡ My approach: learn from mistakes<br><br>- 💬 Ask me about: php, python, laravel, django, web, or my projects<br><br>- 🌟 Checkout my projects and leave a STAR<br><br>- 🔗 Following me is FREE... 
 
 
-<p align="center" >
-    <span style="width: 100%;">
-        <img align="center" style="width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=leonard-czar&theme=onedark" alt="leonard-czar" /> <br>
-       <p> <img align="center" style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=leonard-czar&show_icons=true&locale=en&theme=onedark" alt="leonard-czar" /> </p>
-    </span>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/leonard_czar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/uche-lebechi-1a2025170/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lebechiuchey@gmail.com) 
 
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=leonard-czar&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=leonard-czar&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leonard-czar&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<hr>
+---
+[![](https://visitcount.itsvg.in/api?id=leonard-czar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-## 🏆 Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=leonard-czar&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
-
-<hr>
-
-## 📫 How to reach me
-
-- Email: [Uche Lebechi](mailto:lebechiuchey@gmail.com)
-- Twitter: [leonard-czar](https://x.com/leonard-czar)
-- Website: [Personal](https://uche-lebechi-portfolio.vercel.app/)
-- Skype:   [Uche Lebechi](https://join.skype.com/invite/NRCCGDnepedX)
-
-
-<!-- - LinkedIn: [Uche Lebechi](https://www.linkedin.com/in/uche-lebechi-1a2025170/) -->
-
-<hr>
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
