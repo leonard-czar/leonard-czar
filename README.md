@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, I am Uche Lebechi <br>Software Engineer ✨<br><br>- ⚡ My approach: learn from mistakes<br><br>- 💬 Ask me about: php, python, laravel, django, web, or my projects<br><br>- 🌟 Checkout my projects and leave a STAR<br><br>- 🔗 Following me is FREE... 
+Hi there 👋, I am Uche Lebechi <br>Software Engineer ✨<br><br>- ⚡ My approach: learn from mistakes<br><br>- 💬 Ask me about: php, python, laravel, django,odoo, web, or my projects<br><br>- 🌟 Checkout my projects and leave a STAR<br><br>- 🔗 Following me is FREE... 
 
 
 ## 🌐 Socials:
